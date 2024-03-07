@@ -1,6 +1,6 @@
 # Exemplo web scraping com Node.
 
-Este simples projeto serve para demonstrar como utilizando o Node.js para pegar dados de uma página
+Este simples projeto para demonstrar comom utilizar o Node.js para obter dados de uma página.
 
 ## Foi utilizado
 
